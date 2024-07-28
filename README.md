@@ -83,3 +83,6 @@ def populate_cities():
                 continue
 
 populate_cities()
+
+curl -X GET http://localhost:8000/api/countries/
+
