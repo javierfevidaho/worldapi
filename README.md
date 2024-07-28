@@ -84,5 +84,18 @@ def populate_cities():
 
 populate_cities()
 
+Ejemplos de uso con curl
+Obtener todos los países:
+
+
 curl -X GET http://localhost:8000/api/countries/
+Obtener un país por ID:
+
+
+curl -X GET http://localhost:8000/api/countries/1/
+Obtener todas las ciudades:
+
+
+curl -X GET http://localhost:8000/api/cities/
+Obtener una ciudad por ID:
 
