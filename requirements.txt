@@ -8,4 +8,3 @@ idna==3.7
 requests==2.32.3
 sqlparse==0.5.1
 urllib3==2.2.2
-# Temporary change
