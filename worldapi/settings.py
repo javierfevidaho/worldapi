@@ -12,10 +12,7 @@ SECRET_KEY = 'django-insecure-13lx4i*fs(*g*rfeiyxu1ej)s&p7nbhlw0e!l$=^$l81g(czmx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
 ALLOWED_HOSTS = ['adequate-madelene-cyberlottobank-2d586515.koyeb.app']
-
 
 # Application definition
 
