@@ -14,6 +14,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+ALLOWED_HOSTS = ['adequate-madelene-cyberlottobank-2d586515.koyeb.app']
+
 
 # Application definition
 
