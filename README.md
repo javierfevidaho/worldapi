@@ -31,9 +31,9 @@ Para poblar la base de datos con países:
 Ejemplos de uso con curl
 
 Obtener todos los países:
-curl -X GET http://localhost:8000/api/countries/
+curl -X GET https://adequate-madelene-cyberlottobank-2d586515.koyeb.app/api/countries
 
 Obtener un país por ID:
-curl -X GET http://localhost:8000/api/countries/1/
+curl -X GET http://adequate-madelene-cyberlottobank-2d586515.koyeb.app/api/countries/1/
 
 
